@@ -18,8 +18,8 @@ Ein einfacher Discord-Bot mit `discord.js`, der automatisch Support-Channels ers
 ### Schritt 1: Repository klonen
 
 ```bash
-git clone https://github.com/dein-nutzername/discord-support-bot.git
-cd discord-support-bot
+git clone https://github.com/IloveKOHL/Discord-Support-Bot.git
+cd Discord-Support-Bot
 ```
 
 ### Schritt 2: Abhängigkeiten installieren
